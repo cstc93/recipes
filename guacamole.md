@@ -1,4 +1,4 @@
-change done by Viviana
+change done by Christie
 # Guacamole
 ## Ingredients
 * avocado
