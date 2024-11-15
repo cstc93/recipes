@@ -5,7 +5,7 @@ authors:
   given-names: "Christie"
   orcid: "https://orcid.org/1111-2222-3333-4444"
 title: "recipes"
-version: 1.0.0
+version: 1.0.1
 doi: 10.5281/zenodo.1234547567768768678
 date-released: 2024-11-15
 url: "https://github.com/cstc93/recipes"
